@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "img_url": "img/product_1.png",
+      "title_zh": "經典漢堡套餐",
+      "title_en": "Classic Hamburger Package",
+      "hot": true,
+      "price": "120"
+    },
+      {
+      "img_url": "img/product_2.png",
+      "title_zh": "英俊香腸",
+      "title_en": "Handsome Sausage",
+      "hot": false,
+      "price": "1,024"
+    },
+      {
+      "img_url": "img/product_3.png",
+      "title_zh": "漢堡兄弟",
+      "title_en": "Hamburg Brothers",
+      "hot": false,
+      "price": "792"
+    },
+      {
+      "img_url": "img/product_4.png",
+      "title_zh": "完美願望",
+      "title_en": "Dragon Ball Package",
+      "hot": false,
+      "price":"999,999"
+    }
+  ]
+}
